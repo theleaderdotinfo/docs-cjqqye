@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-qq5d3d.suraelineasoat.com/sitemap.xml
